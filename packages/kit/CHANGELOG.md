@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 3.0.0-next.5
+### Patch Changes
+
+
+- fix: avoid importing the Vite development client code into builds with a non-standard `NODE_ENV` ([#16023](https://github.com/sveltejs/kit/pull/16023))
+
 ## 3.0.0-next.4
 ### Patch Changes
 
